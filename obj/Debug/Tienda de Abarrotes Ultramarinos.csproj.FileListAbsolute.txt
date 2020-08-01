@@ -1,0 +1,12 @@
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Proyectos\Tienda de Abarrotes Ultramarinos\Tienda de Abarrotes Ultramarinos\bin\Debug\Tienda de Abarrotes Ultramarinos.exe.config
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Proyectos\Tienda de Abarrotes Ultramarinos\Tienda de Abarrotes Ultramarinos\bin\Debug\Tienda de Abarrotes Ultramarinos.exe
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Proyectos\Tienda de Abarrotes Ultramarinos\Tienda de Abarrotes Ultramarinos\bin\Debug\Tienda de Abarrotes Ultramarinos.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Proyectos\Tienda de Abarrotes Ultramarinos\Tienda de Abarrotes Ultramarinos\obj\Debug\Tienda_de_Abarrotes_Ultramarinos.Form1.resources
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Proyectos\Tienda de Abarrotes Ultramarinos\Tienda de Abarrotes Ultramarinos\obj\Debug\Tienda_de_Abarrotes_Ultramarinos.Properties.Resources.resources
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Proyectos\Tienda de Abarrotes Ultramarinos\Tienda de Abarrotes Ultramarinos\obj\Debug\Tienda de Abarrotes Ultramarinos.csproj.GenerateResource.cache
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Proyectos\Tienda de Abarrotes Ultramarinos\Tienda de Abarrotes Ultramarinos\obj\Debug\Tienda de Abarrotes Ultramarinos.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Proyectos\Tienda de Abarrotes Ultramarinos\Tienda de Abarrotes Ultramarinos\obj\Debug\Tienda de Abarrotes Ultramarinos.exe
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Proyectos\Tienda de Abarrotes Ultramarinos\Tienda de Abarrotes Ultramarinos\obj\Debug\Tienda de Abarrotes Ultramarinos.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Proyectos\Tienda de Abarrotes Ultramarinos\Tienda de Abarrotes Ultramarinos\bin\Debug\ChreneLib.dll
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Proyectos\Tienda de Abarrotes Ultramarinos\Tienda de Abarrotes Ultramarinos\obj\Debug\Tienda de Abarrotes Ultramarinos.csprojAssemblyReference.cache
+D:\Program Files (x86)\Microsoft Visual Studio\2019\Proyectos\Tienda de Abarrotes Ultramarinos\Tienda de Abarrotes Ultramarinos\obj\Debug\Tienda de Abarrotes Ultramarinos.csproj.CopyComplete
